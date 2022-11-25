@@ -264,6 +264,9 @@ footer{
         text-decoration: underline;
         
     }
+    main{
+        margin: 0 0 150px 0;
+    }	
     
 
 }
